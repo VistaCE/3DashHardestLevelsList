@@ -1,0 +1,298 @@
+[
+    {
+        "id": "16302",
+        "name": "Stack fx",
+        "author": "Norxzit",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "PPLL",
+        "length": null,
+        "cps": "~9.117×10⁹⁶³²",
+        "type": "Pickup stack (placed using script)",
+        "tags": [
+            "T1"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "16316",
+        "name": "Sterep Madnt . < >?g@  7",
+        "author": "daliscreator",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "PPLL/TPLL",
+        "length": 9e+76,
+        "cps": "",
+        "type": "Move timer (Mod)",
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": "16315",
+        "name": "Timeless v2",
+        "author": "QuantumGP",
+        "creators": [
+            "QuantumGP",
+            "daliscreator"
+        ],
+        "verifier": "",
+        "password": "",
+        "difficulty": "PPLL/TPLL",
+        "length": 3e+38,
+        "cps": "~175",
+        "type": "Move timer",
+        "tags": [
+            "2p"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "16289",
+        "name": "Timeless",
+        "author": "daliscreator",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "PPLL/TPLL",
+        "length": 3e+38,
+        "cps": "",
+        "type": "Move timer",
+        "tags": [
+            "FT1"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "16330",
+        "name": "ima kill you",
+        "author": "VistaCE",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "PPLL/TPLL",
+        "length": 6.666667e+34,
+        "cps": "",
+        "type": "Move timer",
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": "16246",
+        "name": "Vista Never Clear X",
+        "author": "daliscreator",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "PPLL",
+        "length": null,
+        "cps": "232",
+        "type": "Simple click counter",
+        "tags": [
+            "FT1"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "16299",
+        "name": "Bloody Hell",
+        "author": "daliscreator",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "SLL/PPLL",
+        "length": 7200,
+        "cps": "~125",
+        "type": "Move timer",
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": "16191",
+        "name": "Silent Dolorem Aeterna",
+        "author": "daliscreator",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "SLL",
+        "length": null,
+        "cps": "~250 for ~2000 blocks",
+        "type": "",
+        "tags": [
+            "FT1",
+            "2p"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "16147",
+        "name": "Dolorem Aeterna",
+        "author": "daliscreator",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "SLL",
+        "length": null,
+        "cps": "~125 for ~2000 blocks",
+        "type": "",
+        "tags": [
+            "FT1"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "16073",
+        "name": "SON 618",
+        "author": "daliscreator",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "SLL",
+        "length": null,
+        "cps": "~125",
+        "type": "",
+        "tags": [
+            "FT1"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "16055",
+        "name": "Vista Never Clear",
+        "author": "daliscreator",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "SLL",
+        "length": null,
+        "cps": "~50",
+        "type": "",
+        "tags": [
+            "FT1"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "16300",
+        "name": "Schafs LXVII",
+        "author": "daliscreator",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "ILL",
+        "length": null,
+        "cps": "",
+        "type": "",
+        "tags": [
+            "2p"
+        ],
+        "notes": "Not added to 3DIL but would be top 1 there"
+    },
+    {
+        "id": "16188",
+        "name": "MINUSdelight",
+        "author": "daliscreator",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "ILL",
+        "length": null,
+        "cps": "",
+        "type": "",
+        "tags": [
+            "2p"
+        ],
+        "notes": "Not added to 3DIL but would be top 1 there"
+    },
+    {
+        "id": "16311",
+        "name": "Sine Wavs",
+        "author": "Quantum",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "SLL",
+        "length": null,
+        "cps": "",
+        "type": "",
+        "tags": [
+            "2p"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "16240",
+        "name": "ILLLife",
+        "author": "Ertanger",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "ILL",
+        "length": null,
+        "cps": "",
+        "type": "",
+        "tags": [
+            "2p"
+        ],
+        "notes": "Not added to 3DIL but would be top 1 there"
+    },
+    {
+        "id": "16050",
+        "name": "Cyclones",
+        "author": "Penstyy",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "ILL",
+        "length": null,
+        "cps": "",
+        "type": "",
+        "tags": [],
+        "notes": "Top 1 3DIL"
+    },
+    {
+        "id": "16212",
+        "name": "Let the shit begin",
+        "author": "VistaCE",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "SLL",
+        "length": null,
+        "cps": "",
+        "type": "",
+        "tags": [
+            "2p"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "16172",
+        "name": "Bitsplosion",
+        "author": "Quantum",
+        "creators": [],
+        "verifier": "",
+        "password": "",
+        "difficulty": "ILL",
+        "length": null,
+        "cps": "",
+        "type": "",
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": "16060",
+        "name": "Irate",
+        "author": "Monstrosity",
+        "creators": [],
+        "verifier": "sydno",
+        "password": "",
+        "difficulty": "ILL",
+        "length": null,
+        "cps": "",
+        "type": "",
+        "tags": [],
+        "notes": "Top 1 3DDL"
+    }
+]

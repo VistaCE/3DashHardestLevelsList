@@ -1,0 +1,15 @@
+{
+    "name": "3Dash Hardest Levels",
+    "version": "v1.0.0",
+    "discord": "",
+    "rules": [
+        "Levels have to be at least top 5 on the 3DDL or harder at the time of publishing.",
+        "If your level has below or equal to 25 CPS and 3 CPF while not having any luck or counters it will have ILL difficulty. If your level has above 25 CPS or 3 CPF while not having any luck or counters it will have SLL difficulty. If your level has counters or luck while being unverified legitimately it will have PPLL difficulty. If your level is verified but at least top 5 in 3DDL at time of publishing to servers, then it will have ILL difficulty.",
+        "Decoration / Gameplay quality is not necessary."
+    ],
+    "tags": [
+        { "code": "FT1", "description": "was top 1 before but isnt now" },
+        { "code": "T1", "description": "current hardest level" },
+        { "code": "2p", "description": "uses 2 player mode added in 3DU v1.5" }
+    ]
+}

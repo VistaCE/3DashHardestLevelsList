@@ -3,7 +3,7 @@ import { fetchSite } from './content.js';
 
 export const store = Vue.reactive({
     dark: JSON.parse(localStorage.getItem('dark')) || false,
-    site: { name: '3Dash Hardest Levels', version: '', discord: '', rules: [], tags: [] },
+    site: { name: '3DHLL', version: '', discord: '', rules: [], tags: [] },
     toggleDark() {
         this.dark = !this.dark;
         localStorage.setItem('dark', JSON.stringify(this.dark));

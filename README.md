@@ -1,4 +1,4 @@
-# 3Dash Hardest Levels List
+# 3DHLL – 3Dash Hardest Levels List
 
 A list of the hardest levels in 3Dash: impossible, practically-possible and
 theoretically-possible levels that are at least top 5 on the 3DDL or harder.
